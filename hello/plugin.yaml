@@ -1,0 +1,6 @@
+name: "hello"
+version: "0.1.0"
+usage: "Say hello"
+description: |-
+  This is a demonstration plugin that prints Hello and then exists.
+command: "$HELM_PLUGIN_DIR/helm-hello"

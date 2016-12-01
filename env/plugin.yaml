@@ -1,0 +1,7 @@
+name: "env"
+version: "0.1.0"
+usage: "print out the plugin environment"
+description: |-
+  Print the environment that the plugin was given, then exit.
+command: "env"
+ignoreFlags: true
