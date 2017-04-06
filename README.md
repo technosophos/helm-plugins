@@ -4,9 +4,9 @@
 
 Each plugin has been moved to a new repository:
 
-- [helm keybase](https://github.com/technosophose/helm-keybase)
-- [helm github](https://github.com/technosophose/helm-github)
-- [helm gpg](https://github.com/technosophose/helm-gpg)
+- [helm keybase](https://github.com/technosophos/helm-keybase)
+- [helm github](https://github.com/technosophos/helm-github)
+- [helm gpg](https://github.com/technosophos/helm-gpg)
 
 
 ## Plugins Still To Be Moved
